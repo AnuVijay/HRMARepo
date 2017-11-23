@@ -14,5 +14,6 @@ public class VerifyLogo extends BaseTest{
 	public void testLogo(){
 		LoginPage l=new LoginPage(driver);
 		l.verifyLogo();
+		//Code to add in github
 	}
 }
